@@ -1,5 +1,5 @@
 import React from 'react';
-import CartItem from './CartItem.js';
+import CartItem from './CartItem';
 
 function App() {
   return (
